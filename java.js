@@ -1,11 +1,8 @@
-function boton() {
-    if (document.getElementById("boton1").value == null || document.getElementById("boton1").value == "") {
+function botonEjemplo() {
+    alert(`Bienvenido a nuestra pagina.`)
 
-    }
-    else {
-        alert(`Bienvenido ${document.getElementById("boton1").value} a nuestra pagina.`)
-    }
+}
 
-
-    
+function botonEjemplo2() {
+    alert(`Espero que os haya gustado mucho chavales, dad like, amor y suscribiros, HASTA LA PRÓXIMA`)
 }

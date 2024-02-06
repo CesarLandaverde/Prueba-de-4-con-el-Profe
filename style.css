@@ -1,8 +1,34 @@
 *{
-    background-color: aqua;
+    background-color: bisque;
 }
 
 button{
     background-color: blue;
     color: aliceblue;
+    margin-left: 30%;
+    margin-top: 40%;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+   
+}
+
+#contenedor{
+display: flex;
+border: 3px;
+border-style: solid;
+border-color: #777575;
+background-color: #777575;
+
+}
+.items-flex{
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-left: 140px;
+
 }
